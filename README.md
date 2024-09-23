@@ -14,4 +14,4 @@ Ejercicios de JavaScript donde se trabajarán variables let y const, método pro
     * Se creó una ventana emergente para que el usuario agregara su nombre, y otra ventana emergente de tipo entero para que ingresara su año de nacimiento, luego se creó una variable donde restamos el año actual el año de nacimiento, e imprimimos una concatenación donde agregamos el nombre del usuario y su edad.
 
 ## Ejercicio 5
-    * Expli
+    * Se creó una ventana emergente para que el usuario ingrese su peso y otra ventana emergente para que ingresara su altura, luego se creó una variable para calcular el IMC y dividimos el peso por el cuadrado de la altura, finalmente se imprimió el IMC del usuario junto a un mensaje.
